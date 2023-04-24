@@ -10,3 +10,9 @@ Este proyecto está escrito en Python y necesita ciertas librerías para funcion
 ```
 pip install -r requirements.txt 
 ```
+
+## Ejecutar el script
+
+```
+python index.py 
+```
